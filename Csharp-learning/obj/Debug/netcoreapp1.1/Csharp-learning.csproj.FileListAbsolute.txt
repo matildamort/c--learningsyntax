@@ -1,0 +1,13 @@
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.csproj.AssemblyReference.cache
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.AssemblyInfoInputs.cache
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.AssemblyInfo.cs
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.csproj.CoreCompileInputs.cache
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/bin/Debug/netcoreapp1.1/Csharp-learning.deps.json
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/bin/Debug/netcoreapp1.1/Csharp-learning.runtimeconfig.json
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/bin/Debug/netcoreapp1.1/Csharp-learning.runtimeconfig.dev.json
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/bin/Debug/netcoreapp1.1/Csharp-learning.dll
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/bin/Debug/netcoreapp1.1/Csharp-learning.pdb
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.dll
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.pdb
+/Users/matildamorton/CAP/Csharp-learning/Csharp-learning/obj/Debug/netcoreapp1.1/Csharp-learning.genruntimeconfig.cache

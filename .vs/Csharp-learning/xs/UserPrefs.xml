@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{C7CAD515-22AD-45F9-A615-813EA8860056}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Csharp-learning/Program.cs">
     <Files>
-      <File FileName="Csharp-learning/Program.cs" Line="9" Column="47" />
+      <File FileName="Csharp-learning/Program.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Csharp-learning FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Csharp-learning PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

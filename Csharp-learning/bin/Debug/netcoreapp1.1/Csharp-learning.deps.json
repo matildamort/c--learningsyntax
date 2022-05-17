@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "Csharp-learning/1.0.0": {
+        "runtime": {
+          "Csharp-learning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp-learning/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
